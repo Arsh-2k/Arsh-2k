@@ -18,8 +18,18 @@ Hey there! I'm Arshpreet Singh 👋</h1>
 <h3 align="center">B.Tech CSE Student | Code. Learn. Build. Repeat.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arsh-code&label=Profile%20views&color=0e75b6&style=flat" alt="arsh-code" />
+  <img src="https://komarev.com/ghpvc/?username=Arsh-2k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Arsh-2k?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/Arsh-2k?label=Stars&style=flat-square&color=FFD700" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Arsh-2k?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Arsh-2k?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Arsh-2k?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-See%20All-blue?style=flat-square" alt="Public Repos" />
+  </a>
 </p>
+
 
 ---
 
@@ -38,12 +48,6 @@ Hey there! I'm Arshpreet Singh 👋</h1>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arsh-2k&show_icons=true&theme=radical&cache_seconds=60" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-2k&theme=radical" />
-</p>
-
-### 🗺 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-2k&theme=dracula" />
 </p>
 
 ---
@@ -79,6 +83,15 @@ Hey there! I'm Arshpreet Singh 👋</h1>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
+
+---
+
+### 🗺 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-2k&theme=dracula" />
+</p>
+
 
 ---
 
