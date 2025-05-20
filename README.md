@@ -1,5 +1,3 @@
-## Hey there! I'm Arshpreet Singh 👋 
-
 <!--
 **Arsh-2k/Arsh-2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">B.Tech CSE Student | Code. Learn. Build. Repeat.</h3>
+<h1 align="center">Hey there 👋, I'm Arshpreet Singh!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsh-2k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -42,19 +40,6 @@ Here are some ideas to get you started:
 
 ---
 
-### ✨ Words I Live By
-
-<blockquote align="center">
-  <h3><strong><code>“The magic you’re looking for is in the work you’re avoiding.”</code></strong></h3>
-</blockquote>
-
-<blockquote align="center">
-  <em>“In chess, as in life, it’s not always about having the best move — it’s about making the best out of the move you have.”</em>  
-  <br>— <strong>Viswanathan Anand</strong>
-</blockquote>
-
----
-
 ### 🚧 Featured Projects
 
 > These are projects I'm either working on or plan to build soon. Stay tuned as I update this section!
@@ -67,6 +52,19 @@ Here are some ideas to get you started:
 .*
 
 > 🔄 I’m constantly updating this list as I learn and build. Contributions, feedback, or suggestions are always welcome!
+
+---
+
+### ✨ Words I Live By
+
+<blockquote align="center">
+  <h3><strong><code>“The magic you’re looking for is in the work you’re avoiding.”</code></strong></h3>
+</blockquote>
+
+<blockquote align="center">
+  <em>“In chess, as in life, it’s not always about having the best move — it’s about making the best out of the move you have.”</em>  
+  <br>— <strong>Viswanathan Anand</strong>
+</blockquote>
 
 ---
 
