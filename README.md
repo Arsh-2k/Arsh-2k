@@ -98,9 +98,13 @@ Tools:       Git | GitHub | VS Code | Vercel | Appwrite | Figma
 
 ---
 
-If you're reading this, you're already awesome.  
-Feel free to explore my work, connect with me, or even contribute!  
-**Let’s grow together. 🚀**
+### 💬 Final Note
+
+<p align="center">
+  If you're reading this, you're already awesome! <br>
+  Feel free to explore my work, connect with me, or even contribute. <br>
+  <strong>Let’s grow together. 🚀</strong>
+</p>
 
 ---
 
