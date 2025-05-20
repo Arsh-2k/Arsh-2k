@@ -82,20 +82,13 @@ Tools:       Git | GitHub | VS Code | Vercel | Appwrite | Figma
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-2k&show_icons=true&theme=radical&cache_seconds=86400" width="45%" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.demolab.com?user=Arsh-2k&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-2k&layout=compact&theme=radical&langs_count=6&cache_seconds=86400" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-2k&show_icons=true&theme=radical" alt="Arsh's GitHub stats" />
 </p>
 
 ---
-
 
 ### 🗺 Contribution Graph
 
