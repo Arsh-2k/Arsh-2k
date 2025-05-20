@@ -147,8 +147,9 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thanks+for+scrolling!;Star+some+repos+if+you+liked+them+✨;Keep+Learning,+Keep+Building,+Keep+Contributing+🚀" alt="Typing SVG Outro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!;Star+some+repos+if+you+liked+them+✨;Keep+Learning+Keep+Building+Keep+Contributing+🚀" alt="Typing SVG Outro" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer" />
