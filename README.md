@@ -1,17 +1,3 @@
-<!--
-**Arsh-2k/Arsh-2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hey there 👋, I'm Arshpreet Singh!</h1>
 
 <p align="center">
@@ -48,7 +34,7 @@ Here are some ideas to get you started:
   *A personal website to showcase my projects, skills, and blogs. Built using HTML, Tailwind, and JavaScript.*
 
 - 🌍 [RepVision](https://github.com/Arsh-2k/RepVision)  
-  *A A clean, interactive workout web app that helps users follow fitness routines directly through curated YouTube tutorials — all without needing to sign in. Designed to be distraction-free, mobile-friendly, and fast.
+  *A clean, interactive workout web app that helps users follow fitness routines directly through curated YouTube tutorials — all without needing to sign in. Designed to be distraction-free, mobile-friendly, and fast.
 .*
 
 > 🔄 I’m constantly updating this list as I learn and build. Contributions, feedback, or suggestions are always welcome!
@@ -68,15 +54,34 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack(Learning)
 
-```bash
-Languages:   C | C++ | Python | JavaScript  
-Frontend:    HTML | CSS | Tailwind | React  
-Backend:     Node.js | Express  
-Databases:   MongoDB  
-Tools:       Git | GitHub | VS Code | Vercel | Appwrite | Figma
-```  
+#### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🗃️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
