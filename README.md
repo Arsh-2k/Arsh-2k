@@ -42,12 +42,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+### ✨ Words I Live By
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arsh-2k&show_icons=true&theme=radical&cache_seconds=60" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-2k&theme=radical" />
-</p>
+<blockquote align="center">
+  <h3><strong><code>“The magic you’re looking for is in the work you’re avoiding.”</code></strong></h3>
+</blockquote>
+
+<blockquote align="center">
+  <em>“In chess, as in life, it’s not always about having the best move — it’s about making the best out of the move you have.”</em>  
+  <br>— <strong>Viswanathan Anand</strong>
+</blockquote>
 
 ---
 
@@ -78,11 +82,27 @@ Tools:       Git | GitHub | VS Code | Vercel | Appwrite | Figma
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arsh-2k&show_icons=true&theme=radical&cache_seconds=60" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-2k&theme=radical" />
+</p>
+
+---
+
+
 ### 🗺 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-2k&theme=dracula" />
 </p>
+
+---
+
+If you're reading this, you're already awesome.  
+Feel free to explore my work, connect with me, or even contribute!  
+**Let’s grow together. 🚀**
 
 ---
 
