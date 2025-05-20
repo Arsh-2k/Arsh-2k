@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
 </p>
 
+---
 
 <h1 align="center">Hey there 👋, I'm Arshpreet Singh!</h1>
 
@@ -151,6 +152,7 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!;Star+some+repos+if+you+liked+them+✨;Keep+Learning+Keep+Building+Keep+Contributing+🚀" alt="Typing SVG Outro" />
 </p>
 
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer" />
