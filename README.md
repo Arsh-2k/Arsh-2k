@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
 </p>
+
 
 <h1 align="center">Hey there 👋, I'm Arshpreet Singh!</h1>
 
