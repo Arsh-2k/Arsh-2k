@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">B.Tech CSE Student | Code. Learn. Build. Repeat.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Light&nbsp;⇄&nbsp;Dark-333333?style=for-the-badge&logo=half-life&logoColor=white" alt="Theme Toggle Badge"/>
-</p>
-
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsh-2k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Arsh-2k?tab=stars" target="_blank">
     <img src="https://img.shields.io/github/stars/Arsh-2k?label=Stars&style=flat-square&color=FFD700" alt="GitHub Stars" />
