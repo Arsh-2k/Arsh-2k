@@ -61,7 +61,8 @@
 
 ---
 
-### 🛠️ Tech Stack(Learning)
+### 🛠️ 🧰 Tools & Tech I’ve Used — and What I’m Learning
+A growing toolbox of technologies I’ve explored and continue to build with as I learn.
 
 #### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -135,6 +136,8 @@
   </a>
 </p>
 
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -150,6 +153,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer" />
 </p>
+
+
+
 
 
 
