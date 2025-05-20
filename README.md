@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! I'm Arshpreet Singh 👋 
 
 <!--
 **Arsh-2k/Arsh-2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there! I'm Arshpreet Singh 👋</h1>
-<h3 align="center">B.Tech CSE Student | Code. Learn. Build. Repeat.</h3>
+<h1 align="center">B.Tech CSE Student | Code. Learn. Build. Repeat.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsh-2k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -67,6 +66,26 @@ Hey there! I'm Arshpreet Singh 👋</h1>
 
 ---
 
+### 🛠️ My Tech Stack
+
+```bash
+Languages:   C | C++ | Python | JavaScript  
+Frontend:    HTML | CSS | Tailwind | React  
+Backend:     Node.js | Express  
+Databases:   MongoDB  
+Tools:       Git | GitHub | VS Code | Vercel | Appwrite | Figma
+```  
+
+---
+
+### 🗺 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-2k&theme=dracula" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -84,23 +103,6 @@ Hey there! I'm Arshpreet Singh 👋</h1>
   </a>
 </p>
 
----
-
-### 🗺 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-2k&theme=dracula" />
-</p>
 
 
----
-
-### 🛠️ My Tech Stack
-
-```bash
-Languages:   C | C++ | Python | JavaScript  
-Frontend:    HTML | CSS | Tailwind | React  
-Backend:     Node.js | Express  
-Databases:   MongoDB  
-Tools:       Git | GitHub | VS Code | Vercel | Appwrite | Figma
 
