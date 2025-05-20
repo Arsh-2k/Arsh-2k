@@ -48,6 +48,21 @@ Hey there! I'm Arshpreet Singh 👋</h1>
 
 ---
 
+### 🚧 Featured Projects
+
+> These are projects I'm either working on or plan to build soon. Stay tuned as I update this section!
+
+- 🔗 [Portfolio Website](https://github.com/Arsh-2k/portfolio)  
+  *A personal website to showcase my projects, skills, and blogs. Built using HTML, Tailwind, and JavaScript.*
+
+- 🌍 [RepVision](https://github.com/Arsh-2k/RepVision)  
+  *A A clean, interactive workout web app that helps users follow fitness routines directly through curated YouTube tutorials — all without needing to sign in. Designed to be distraction-free, mobile-friendly, and fast.
+.*
+
+> 🔄 I’m constantly updating this list as I learn and build. Contributions, feedback, or suggestions are always welcome!
+
+---
+
 ### 🛠️ My Tech Stack
 
 ```bash
