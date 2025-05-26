@@ -30,8 +30,8 @@
 - 🎓 I'm a CSE undergrad passionate about tech, logic, and building useful things.
 - 💻 Currently exploring: **Programming**, **Data Structures & Algorithms**, and **Web Development**
 - 🧠 I enjoy solving real-world problems through code — and making things that *don’t just run*, but *matter*.
-- ♟️ Chess, geopolitics, and algorithmic thinking keep me sharp.
 - ✨ Goal: Contribute to Open Source and build projects that speak louder than words.
+- ♟️ Chess, geopolitics, and algorithmic thinking keep me sharp.
 
 ---
 
@@ -58,34 +58,34 @@
 
 ---
 
-### 🛠️ Tools & Tech
+### 📚 Learning & Working With These Technologies
 
 #### 💻 Languages
-![C](https://img.shields.io/badge/C-555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-555?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-555?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-2E2E2E?style=for-the-badge&logo=c&logoColor=8B5CF6)
+![C++](https://img.shields.io/badge/C++-2E2E2E?style=for-the-badge&logo=c%2B%2B&logoColor=8B5CF6)
+![Python](https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E2E2E?style=for-the-badge&logo=javascript&logoColor=8B5CF6)
 
 #### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-555?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-555?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-555?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-555?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-2E2E2E?style=for-the-badge&logo=html5&logoColor=8B5CF6)
+![CSS](https://img.shields.io/badge/CSS3-2E2E2E?style=for-the-badge&logo=css3&logoColor=8B5CF6)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2E2E2E?style=for-the-badge&logo=tailwind-css&logoColor=8B5CF6)
+![React](https://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=react&logoColor=8B5CF6)
 
 #### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-555?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-555?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2E2E2E?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6)
+![Express.js](https://img.shields.io/badge/Express.js-2E2E2E?style=for-the-badge&logo=express&logoColor=8B5CF6)
 
 #### 🗃️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-555?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E2E2E?style=for-the-badge&logo=mongodb&logoColor=8B5CF6)
 
 #### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-555?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-555?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-555?style=for-the-badge&logo=vercel&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-555?style=for-the-badge&logo=appwrite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-555?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2E2E2E?style=for-the-badge&logo=git&logoColor=8B5CF6)
+![GitHub](https://img.shields.io/badge/GitHub-2E2E2E?style=for-the-badge&logo=github&logoColor=8B5CF6)
+![VS Code](https://img.shields.io/badge/VS%20Code-2E2E2E?style=for-the-badge&logo=visual-studio-code&logoColor=8B5CF6)
+![Vercel](https://img.shields.io/badge/Vercel-2E2E2E?style=for-the-badge&logo=vercel&logoColor=8B5CF6)
+![Appwrite](https://img.shields.io/badge/Appwrite-2E2E2E?style=for-the-badge&logo=appwrite&logoColor=8B5CF6)
+![Figma](https://img.shields.io/badge/Figma-2E2E2E?style=for-the-badge&logo=figma&logoColor=8B5CF6)
 
 ---
 
@@ -105,13 +105,12 @@
 
 ---
 
-
-### 💬 Final Note 
+### 💬 Final Note
 
 <p align="center">
   Thank you for taking the time to explore my work. <br>
-  Whether you're a student, fellow educator, researcher, or curious mind — you're most welcome here. <br>
-  <strong>Let’s collaborate, contribute, and continue the journey of lifelong learning. 🚀</strong>
+  Whether you're a student, fellow developer, or a curious mind — you're most welcome here. <br>
+  <strong>Let’s collaborate, contribute, and continue the journey of lifelong learning 🚀</strong>
 </p>
 
 ---
@@ -120,19 +119,19 @@
 
 <p align="center">
   <a href="mailto:arshpreet2k6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
   </a>
   <a href="https://www.linkedin.com/in/arshpreet-singh-309726238/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
   </a>
   <a href="https://twitter.com/@AspiringSDeV7">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-2E2E2E?style=for-the-badge&logo=twitter&logoColor=8B5CF6" />
   </a>
   <a href="https://github.com/Arsh-2k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-2E2E2E?style=for-the-badge&logo=github&logoColor=8B5CF6" />
   </a>
   <a href="https://arshpreetsinghcse.com">
-    <img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-2E2E2E?style=for-the-badge&logo=google-chrome&logoColor=8B5CF6" />
   </a>
 </p>
 
