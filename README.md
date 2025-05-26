@@ -129,7 +129,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:arshpreet2k6@gmail.com">
+  <a href="mailto:arshpreetsinghcse@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
   </a>
   <a href="https://www.linkedin.com/in/arshpreet-singh-309726238/">
