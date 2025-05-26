@@ -130,23 +130,28 @@
 
 <p align="center">
   <a href="mailto:arshpreetsinghcse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
+    <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/arshpreet-singh-309726238/">
-    <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
+    <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/@AspiringSDeV7">
-    <img src="https://img.shields.io/badge/Twitter-2E2E2E?style=for-the-badge&logo=twitter&logoColor=8B5CF6" />
+  <a href="https://x.com/AspiringSDeV7">
+    <img src="https://img.shields.io/badge/Twitter-2E2E2E?style=for-the-badge&logo=x&logoColor=8B5CF6" alt="Twitter (X)" />
   </a>
   <a href="https://github.com/Arsh-2k">
-    <img src="https://img.shields.io/badge/GitHub-2E2E2E?style=for-the-badge&logo=github&logoColor=8B5CF6" />
+    <img src="https://img.shields.io/badge/GitHub-2E2E2E?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
   </a>
   <a href="https://arshpreetsinghcse.com">
-    <img src="https://img.shields.io/badge/Website-2E2E2E?style=for-the-badge&logo=google-chrome&logoColor=8B5CF6" />
+    <img src="https://img.shields.io/badge/Website-2E2E2E?style=for-the-badge&logo=google-chrome&logoColor=8B5CF6" alt="Website" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling%21;Star+some+repos+if+you+liked+them+%E2%9C%A8;Keep+Learning%2C+Keep+Contributing%21" alt="Typing Outro" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=footer" />
