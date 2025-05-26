@@ -26,22 +26,29 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm a CSE undergrad passionate about tech, logic, and building useful things.
-- 💻 Currently exploring: **Programming**, **Data Structures & Algorithms**, and **Web Development**
-- 🧠 I enjoy solving real-world problems through code — and making things that *don’t just run*, but *matter*.
-- ✨ Goal: Contribute to Open Source and build projects that speak louder than words.
-- ♟️ Chess, geopolitics, and algorithmic thinking keep me sharp.
+### 🔮 About Me
+- 👨‍💻 I'm a CSE undergrad passionate about **tech**, **logic**, and building useful things.
+- 🌱 Currently exploring: **Programming**, **DSA**, and **Full-Stack Web Dev**
+- 🛠️ I enjoy solving real-world problems — and making things that *don’t just run*, but *matter*.
+- 🎯 Goal: Contribute to **Open Source** and build projects that speak louder than words.
+- ♟️ I stay sharp with chess, geopolitics, and algorithmic thinking.
 
 ---
 
-### 🚧 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Undergrad-%235f4b8b?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-%238a2be2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Badge"/>
+</p>
 
-- 🔗 [Portfolio Website](https://github.com/Arsh-2k/portfolio)  
-  *A personal website to showcase my projects, skills, and blogs. Built using HTML, Tailwind, and JavaScript.*
+---
 
-- 🌍 [RepVision](https://github.com/Arsh-2k/RepVision)  
-  *A clean, interactive workout web app that helps users follow fitness routines directly through curated YouTube tutorials — all without needing to sign in.*
+### 🛠️ Featured Projects
+
+- 🌀 [**Portfolio Website**](https://github.com/Arsh-2k/portfolio)  
+  *Showcases my journey, skills, and blog — built with Next.js, Tailwind CSS, and a splash of creativity.*
+
+- ⚡ [**RepVision**](https://github.com/Arsh-2k/RepVision)  
+  *An interactive workout web app powered by curated YouTube tutorials — clean, fast, no login required.*
 
 ---
 
@@ -57,6 +64,10 @@
 </blockquote>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Keep+building...;Stay+curious...;Code+with+purpose." alt="Typing SVG" />
+</p>
 
 ### 📚 Learning & Working With These Technologies
 
