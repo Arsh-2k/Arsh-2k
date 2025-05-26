@@ -92,7 +92,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-2k&show_icons=true&theme=transparent" alt="Arsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-2k&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=false&border_radius=10&title_color=8B5CF6&icon_color=8B5CF6" alt="Arsh's GitHub Stats" />
 </p>
 
 ---
@@ -100,10 +100,11 @@
 ### 🗺 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-2k&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh-2k&theme=tokyo-night&area=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=false" alt="Arsh's GitHub Contribution Graph" />
 </p>
 
 ---
+
 
 ### 💬 Final Note 
 
