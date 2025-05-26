@@ -128,10 +128,10 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/Arsh-2k">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://arshpreetsinghcse.com">
-    <img src="https://img.shields.io/badge/Website-34D399?style=for-the-badge&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
 
